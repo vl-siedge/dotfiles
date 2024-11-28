@@ -1,9 +1,8 @@
 [user]
-    email = aaron@duckpond.ch
-    name = id101010
-    signingkey = 348F38C5
+    email = siedge1992@gmail.com
+    name = vl_siedge
 [commit]
-    gpgsign = true
+    gpgsign = false
 [alias]
     logs = log --show-signature
     lg = log --graph --abbrev-commit --decorate --format=format:'%C(yellow)%h%C(reset)%C(auto)%d%C(reset) %C(normal)%s%C(reset) %C(dim white)%an%C(reset) %C(dim blue)(%ad)%C (reset)' --all
